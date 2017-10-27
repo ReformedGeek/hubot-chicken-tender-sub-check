@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name": "Bill Carlisle",
+    "email": "billc@akamai.com"
+  },
+  "dependencies": {
+  },
+  "description": "Module to check whether the best chicken tender subs in the world are on sale.",
+  "devDependencies": {},
+  "license": "MIT"
+  "main": "index.coffee",
+  "name": "hubot-chicken-tender-sub-check",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
