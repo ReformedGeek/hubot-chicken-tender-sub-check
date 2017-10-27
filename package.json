@@ -7,7 +7,7 @@
   },
   "description": "Module to check whether the best chicken tender subs in the world are on sale.",
   "devDependencies": {},
-  "license": "MIT"
+  "license": "MIT",
   "main": "index.coffee",
   "name": "hubot-chicken-tender-sub-check",
   "optionalDependencies": {},
